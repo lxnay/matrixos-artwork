@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   style="display:block"
+   viewBox="0 0 2048 1536"
+   width="1024"
+   height="768"
+   preserveAspectRatio="none"
+   id="svg17"
+   sodipodi:docname="drawing5_sister.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.51306674"
+     inkscape:cx="195.88095"
+     inkscape:cy="519.4256"
+     inkscape:window-width="1704"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g20" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="Gradient1"
+       gradientUnits="userSpaceOnUse"
+       x1="1397.49"
+       y1="818.14099"
+       x2="1019.57"
+       y2="604.84998"
+       gradientTransform="matrix(1.5479745,0,0,1.5479745,-572.45992,-307.29698)">
+      <stop
+         class="stop0"
+         offset="0"
+         stop-opacity="1"
+         stop-color="rgb(81,211,254)"
+         id="stop1" />
+      <stop
+         class="stop1"
+         offset="1"
+         stop-opacity="1"
+         stop-color="rgb(101,234,253)"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g18"
+     transform="translate(12.352035,22.739733)">
+    <g
+       id="g20"
+       transform="translate(-1.0186065,-496.22652)">
+      <g
+         id="g19"
+         transform="matrix(1.0424759,0,0,1.0424759,-94.704179,145.16808)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1260.08px;font-family:Zekton;-inkscape-font-specification:Zekton;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1f68da;fill-opacity:1;stroke:#1f68da;stroke-width:57.9364;stroke-opacity:1"
+           x="370.74774"
+           y="1148.9187"
+           id="text19"><tspan
+             sodipodi:role="line"
+             id="tspan19"
+             style="fill:#1f68da;fill-opacity:1;stroke:#1f68da;stroke-width:57.9364;stroke-opacity:1"
+             x="370.74774"
+             y="1148.9187">m</tspan></text>
+        <path
+           fill="#48cefe"
+           d="m 1579.081,462.93617 c -28.2891,-1.04568 -68.4429,-0.92876 -97.0201,-0.0417 13.7944,13.12678 26.564,28.21461 38.8254,42.82639 89.5556,106.72314 123.5857,245.05849 105.1132,382.69813 -10.2036,79.79815 -40.0382,155.72491 -86.7661,220.81611 -15.5707,21.6315 -29.9229,38.0765 -47.4457,57.7706 -4.1056,4.2428 -7.0205,7.5501 -11.8959,10.8826 l 96.2206,-0.075 c 0.8696,-0.7851 1.7128,-1.5954 2.5289,-2.4388 10.8233,-10.9662 29.7693,-38.2103 38.7041,-51.2561 62.5428,-91.3388 89.4014,-200.76962 88.6192,-311.30876 -0.7731,-109.33816 -31.4031,-222.82973 -95.959,-311.7824 -8.316,-11.45807 -21.0311,-28.20961 -30.9246,-38.09082 z"
+           id="path7-1"
+           style="display:block;stroke-width:0.830119" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:412.794px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#fd228d;fill-opacity:1;stroke-width:18.9794"
+         x="129.28728"
+         y="1855.984"
+         id="text17"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:412.794px;font-family:Zekton;-inkscape-font-specification:Zekton;fill:#fd228d;fill-opacity:1;stroke-width:18.9794"
+           x="129.28728"
+           y="1855.984"><tspan
+             style="fill:#1f68da;fill-opacity:1"
+             id="tspan20">matrix</tspan><tspan
+             style="fill:#48cefe;fill-opacity:1;stroke-width:18.9794"
+             id="tspan18">OS</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

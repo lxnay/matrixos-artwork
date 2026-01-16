@@ -1,0 +1,47 @@
+# Gentoo minimalist theme for GRUB2
+# Modified by the matrixOS team
+#
+# Copyright (C) 2017 Phil Tooley
+#
+# This theme is licensed under the terms of the MIT license.
+
+#general settings
+desktop-image: "matrixos-1024x768.png"
+
+title-color: "#fff"
+message-font: "inconsolata 16"
+message-color: "#fff"
+message-bg-color: "#000"
+terminal-font: "inconsolata 16"
+
+#boot menu
++ boot_menu {
+	left = 50%-150
+	width = 500
+	top = 50%+100
+	height = 300
+
+	item_color = "#888"
+	selected_item_color= "#6f8fa7"
+
+	item_font = "Inconsolata Bold 16"
+	item_height = 22
+	item_padding = 4
+	item_spacing = 1
+	scrollbar = false
+}
+
+#progress bar
++ progress_bar {
+	id = "__timeout__"
+	left = 15%
+	top = 80%
+	height = 20
+	width = 70%
+	font = "inconsolata 12"
+	text_color = "#000"
+	fg_color = "#d0dbe2"
+	bg_color = "#6f8fa7"
+	border_color = "#000"
+	text = "@TIMEOUT_NOTIFICATION_LONG@"
+}
