@@ -40,7 +40,8 @@ To apply the GRUB theme manually:
     ```
 3.  Regenerate your GRUB configuration (e.g., `grub-mkconfig -o /boot/grub/grub.cfg`).
 
+For GNOME, GDM, and Plymouth themes, manual installation is not recommended due to complexity. Please refer to the matrixOS overlay for official Gentoo Portage ebuilds to handle installation and configuration.
+
 ## License
 
-The artwork in this repository is licensed under the **MIT License** where applicable or otherwise
-not specified.
+Unless otherwise noted, the artwork in this repository is licensed under the **MIT License**.
